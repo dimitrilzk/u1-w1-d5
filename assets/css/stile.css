@@ -30,6 +30,7 @@ body {
     padding-bottom: 60px;
     display: block;
     background-repeat: no-repeat;
+    text-align: center;
 }
 .corsodev h1 {
     font-family: 'Montserrat', sans-serif;
@@ -56,9 +57,6 @@ button {
     padding: 1rem;
     color: white;
 }
-.corsodev button {
-    text-align: center;
-}
 /* MAIN */
 .divmain {
     font-family: 'Open Sans', sans-serif;
@@ -77,6 +75,9 @@ button {
     max-height: 300px;
     position: relative;
     margin-top: 3rem;
+}
+.divc{
+    text-align: center;
 }
 .rosso {
     background-color: #f04c2f;
